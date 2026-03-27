@@ -12,6 +12,14 @@ const projects = [
     tech: ["React", "Tailwind CSS", "JavaScript", "Node.js"],
     github: "https://github.com/kulkarnidivit/snkrverse",
     live: "https://snkrverse.vercel.app/"
+  },
+  {
+    title: "Modern Developer Portfolio",
+    description: "A high-performance, responsive personal portfolio designed to showcase software engineering projects and technical skills. Built with Next.js and Tailwind CSS featuring dynamic daylight/dark theming, smooth Framer Motion animations, and a sleek glassmorphism aesthetic.",
+    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&q=80&w=1000",
+    tech: ["Next.js", "React", "Tailwind CSS", "Framer Motion"],
+    github: "https://github.com/kulkarnidivit/Portfolio-",
+    live: "#"
   }
 ];
 
